@@ -1,5 +1,6 @@
 # CavezzAddons
-A *very* small Chat Triggers mod for hypixel skyblock. 
+A *very* small Chat Triggers mod for hypixel skyblock.
+Completely open source. 
 
 Current Features: Stonkless Stonk, Dungeon ESP, Vanquisher ESP, Auto close dungeon secret chests
 
