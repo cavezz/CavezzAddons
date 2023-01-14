@@ -4,9 +4,9 @@ A small Chat Triggers mod for hypixel skyblock.
 Current Features:
 Stonkless Stonk
 Dungeon ESP
-  Mini bosses
-  Starred mobs
-  Blood Bonzo/Scarf/Livid
+Mini bosses
+Starred mobs
+Blood Bonzo/Scarf/Livid
 Vanquisher ESP
 Auto close dungeon secret chests
 
