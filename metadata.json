@@ -1,0 +1,10 @@
+{
+    "name": "CavezzModule",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "description": "Cavezz",
+    "requires": [
+        "Vigilance",
+        "RenderLib"
+    ]
+}

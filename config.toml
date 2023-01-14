@@ -1,0 +1,65 @@
+
+[general]
+	stonk_ghost_blocks = false
+	esp_color = "255,0,255,243"
+	esp = true
+	auto_close_chest = true
+
+	[general.general]
+		esp_color = "255,255,0,0"
+		esp = false
+
+[mob_esp]
+
+	[mob_esp.boss_esp]
+		bonzo_esp_color = "255,255,0,0"
+		bonzo_esp = true
+		scarf_esp_color = "255,255,0,0"
+		scarf_esp = true
+
+	[mob_esp.key_esp]
+		blood_key_esp_color = "255,255,0,0"
+		wither_key_esp_color = "255,255,0,0"
+		wither_key_esp = true
+		blood_key_esp = true
+
+	[mob_esp.mini_boss_esp]
+		lost_adventurer_esp_color = "255,255,0,0"
+		shadow_assassin_esp = true
+		angry_archeologist_esp = true
+		king_midas_esp = true
+		lost_adventurer_esp = true
+		king_midas_esp_color = "255,255,0,0"
+		frozen_adventurer_esp_color = "255,255,0,0"
+		shadow_assassin_esp_color = "255,255,0,0"
+		angry_archeologist_esp_color = "255,255,0,0"
+		frozen_adventurer_esp = true
+
+	[mob_esp.star_mobs_esp]
+		star_mobs_esp_color = "255,255,0,0"
+		star_mobs_esp = true
+
+[esp]
+
+	[esp.esp]
+		esp_color = "255,255,0,0"
+		esp = false
+
+	[esp.boss_esp]
+		bonzo_esp_color = "255,255,0,0"
+		scarf_esp_color = "255,255,0,0"
+
+	[esp.key_esp]
+		blood_key_esp_color = "255,255,0,0"
+		wither_key_esp_color = "255,255,0,0"
+
+	[esp.mini_boss_esp]
+		lost_adventurer_esp_color = "255,255,0,0"
+		king_midas_esp_color = "255,255,0,0"
+		frozen_adventurer_esp_color = "255,255,0,0"
+		shadow_assassin_esp_color = "255,255,0,0"
+		angry_archeologist_esp_color = "255,255,0,0"
+
+	[esp.star_mobs_esp]
+		star_mobs_esp_color = "255,255,0,0"
+
